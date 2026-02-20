@@ -83,7 +83,7 @@
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rotxter.git
+git clone https://github.com/pevinkumar10/rotxter.git
 
 # Navigate to directory
 cd rotxter
@@ -252,7 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 <br>
 
 ## 👤 Author(s)
-- Pevinkumar A: [@pevinkumar10](https://github.com/yourusername)
+- [@pevinkumar10](https://github.com/yourusername)
 
 <br>
 
