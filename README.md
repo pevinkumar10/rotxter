@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <img src="https://via.placeholder.com/700x400/2d2d2d/ffffff?text=ROTXTER+in+Action" alt="ROTXTER Demo" width="700"/>
+  <img src="./img/demo.png" alt="ROTXTER Demo" width="700"/>
   <br>
   <p><em>ROTXTER scanning in progress with colorful output</em></p>
 </div>
@@ -233,39 +233,6 @@ ROTXTER automatically identifies potentially sensitive endpoints based on:
 
 <br>
 
-## 📸 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Main+Interface" alt="Main Interface" width="400"/>
-        <br>
-        <em>Main Interface with Banner</em>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Scan+Progress" alt="Scan Progress" width="400"/>
-        <br>
-        <em>Real-time Scan Progress</em>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Results+View" alt="Results View" width="400"/>
-        <br>
-        <em>Color-coded Results</em>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Interesting+Findings" alt="Interesting Findings" width="400"/>
-        <br>
-        <em>Interesting Endpoints Highlighted</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -284,10 +251,9 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 <br>
 
-## 👤 Author
+## 👤 Author(s)
+- Pevinkumar A: [@pevinkumar10](https://github.com/yourusername)
 
-**Pevinkumar A**
-- GitHub: [@pevinkumar10](https://github.com/yourusername)
 <br>
 
 ---
