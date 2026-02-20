@@ -1,7 +1,7 @@
 
 <div align="center">
   <br>
-  <img src="https://via.placeholder.com/800x200/1a1a1a/ffffff?text=ROTXTER" alt="ROTXTER Banner" width="800"/>
+  <img src="./img/banner.png" alt="ROTXTER Banner" width="800"/>
   <br>
   <h1>ROTXTER - Robots.txt Endpoint Checker</h1>
   <p>
