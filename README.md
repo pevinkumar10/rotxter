@@ -3,7 +3,6 @@
   <br>
   <img src="./img/banner.png" alt="ROTXTER Banner" width="800"/>
   <br>
-  <h1>ROTXTER - Robots.txt Endpoint Checker</h1>
   <p>
     <strong>A powerful, multi-threaded tool for analyzing robots.txt files and discovering hidden endpoints</strong>
   </p>
